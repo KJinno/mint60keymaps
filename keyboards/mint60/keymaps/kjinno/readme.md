@@ -1,1 +1,1 @@
-# The default keymap for Mint60
+# The kjinno's original keymap for Mint60
